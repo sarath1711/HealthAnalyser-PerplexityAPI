@@ -3,7 +3,7 @@ import requests
 
 def setup_api_key():
     # Your API key here (keep this secure in real apps)
-    return "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"
+    return "YOUR API KEY"
 
 def build_prompt(text):
     return f"""
